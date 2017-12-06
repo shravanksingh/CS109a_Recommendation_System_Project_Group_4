@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: Restaurant Recommendation System Introduction
+description: 
+baseurl:
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
