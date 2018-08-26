@@ -1,9 +1,4 @@
 # Recommendation System for Restaurants using Yelp dataset
-Group # 4
-
-1. Shravan Kumar Singh 
-2. Gurjeet Singh
-3. Deepika Sinha 
 
 (Website link:https://shravanksingh.github.io/CS109a_Recommendation_System_Project_Group_4/)
 
